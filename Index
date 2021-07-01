@@ -1,1 +1,76 @@
 
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TRANSPORT SECTOR</title>
+    </head>
+    <style>
+        body {
+         background-color:#9e91c0 ;
+         margin: 0 15%;
+         font-family: serif;
+         }
+        h1 {
+         text-align: center;
+         font-family: serif;
+         font-weight: normal;
+         text-transform: uppercase;
+         border-bottom: 1px solid #89961a;
+ margin-top: 30px;
+}
+h2 {
+ color: blue;
+ font-size: 1em;
+}
+</style>
+
+<h1 id ="hello" > Welcome to BlueAfrica Trans!!!</h1>
+    <br>
+    <br>
+    <h2>You Call, We Haul.
+        <br>
+        <br>
+    <p1> Blue Africa Trans is primarily a haulage provider that services a variety of sectors within South Africa, Zimbabwe and across the SADC region.
+       <br>
+        <br>
+        <p2>We serve industries like Mining, Manufacturing, Construction, Agriculture and Logistics Companies.We offer reliable, cost effective transportation of bulk goods.
+        <br>
+        <br>
+            
+      <a href="Call Us"> Call Us </a>
+          <br>
+          <img src=" 36a1e78578b853846eb4b0520100cb80.jpg" width="500" height="500" />
+          <br>
+          <br>
+          <h3>We Specialize In:
+              <br>
+              <br>
+              <p1>We delivar cross border road transport and logostics, with our offices in Harare and Masvingo, Zimbabwe.
+                  No Haul is too big or too small.
+                  <br>
+                  <br>
+                  <h4>CONSTRUCTION MATERIAL
+                      <br>
+                      <br>
+                      <img src="istockphoto-887465766-612x612.jpg"  width="500" height="500"/>
+                      <br>
+                 <p1>BlueAfrica Trans transprt a variety of building materials such as river sand, stone, gravel, cement, bricks and containers.
+                          <br>
+                          <br>
+                  <h5>MINING MATERIALS 
+                        <br>
+                        <br>
+                        <img src="epiroc-mine-mining-equipment-heavy-duty-vehicles-01.jpeg" width="500" height="500"/>
+                     <br> 
+                    <p2>At BlueAfrica Trans there is no job considered too big.We transport a selection of mining materials and offer cost effective and reliable services.
+                            <br>
+                            <br>
+                
+     <a href="About.html"> About</a>
+                        <br>
+     <a href="Services.html"> Services</a>
+                        <br>
+     <a href="Enquiries.html">Enquiries</a> 
+    <p> Click the links to check.</>
+        <br>
+    <br>
