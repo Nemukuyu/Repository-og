@@ -1,1 +1,49 @@
 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        body {
+            background-color: #e2dcf1;
+            margin: 0 15%;
+            font-family: sans-serif;
+        }
+        
+        h1 {
+            text-align: center;
+            font-family: serif;
+            font-weight: normal;
+            text-transform: uppercase;
+            border-bottom: 1px solid #1a962f;
+            margin-top: 30px;
+        }
+        
+        h2 {
+            color: #180ea7;
+            font-size: 1em;
+        }
+    </style>
+
+    <title>Services/Products</title>
+    <h1>Services</h1>
+    <P>BlueAfrica Trans offers high quality transportation services which meet the customers' needs and wants.Reducing the time taken to deliever any kind of goods anywhere in the SADC which makes our custormers trust in us 
+      and we in them. The deliveries  needed by the people are offered
+        at a lower cost and in a short amount of time. Some of the services offered are listed below.</P>
+    <h2>Services offered</h2>
+    <ol>
+        <!--the above OL is to show numbered elemnets in a list in my html -->
+        <Li>Logistics</Li>
+        <Li>International Transportation</Li>
+        <Li>Abnormal Loads</Li>
+        <Li>Construction Equipment</Li>
+        <Li>Mining Equipment</Li>
+       
+    </ol>
+    <br>
+    <a href="index.html">Back to homepage</a>
+</head>
+
+</body>
+
+</html>
